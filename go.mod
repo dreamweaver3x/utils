@@ -1,3 +1,4 @@
-module github.com/dreamweaver3x/utils/v2
+module github.com/dreamweaver3x/utils/v3
 
 go 1.15
+
